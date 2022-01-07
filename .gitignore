@@ -47,6 +47,7 @@ quantum/version.h
 .project
 .settings/
 .vagrant/
+*.sublime*
 
 # ?
 .dep
