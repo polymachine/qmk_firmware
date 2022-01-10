@@ -16,6 +16,9 @@
 
 #pragma once
 
+#define MASTER_RIGHT
+// #define EE_HANDS
+
 #ifdef RGBLIGHT_ENABLE
 #    define RGBLIGHT_ANIMATIONS
 #    define RGBLIGHT_HUE_STEP  8
